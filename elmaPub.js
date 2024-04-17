@@ -1,1 +1,5 @@
-<script>alert('Hello world Git')</script>
+<script>
+  function myFunction() {
+  alert('Hello world Git')
+}
+  </script>
